@@ -14,7 +14,7 @@ This Recipe App is a web-based application that allows users to search for and d
 
 ## Demo
 
-You can try out the live demo of the Recipe App [here](#insert-live-demo-link).
+You can try out the live demo of the Recipe App [here](https://shivajr78.github.io/Recipe-App/).
 
 ## Installation
 
@@ -70,6 +70,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Author: Your Name
+- Author: Shiva
 - Email: beingshiva78@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/shivajr78)
+- GitHub: [GitHub Profile](https://github.com/shivajr78)
