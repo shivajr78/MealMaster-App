@@ -14,7 +14,7 @@ This Recipe App is a web-based application that allows users to search for and d
 
 ## Demo
 
-You can try out the live demo of the Recipe App [here](https://shivajr78.github.io/MealMaster-App/).
+You can try out the live demo of the Recipe App [here](https://shivajr78.github.io/Recipe-App/).
 
 ## Installation
 
