@@ -5,14 +5,14 @@
   font-family: "Laila", sans-serif;
 }
 body {
- background-color: #f4c531;
+ background-color: #76ABDF;
 }
 .container {
   background-color: #ffffff;
   font-size: 1rem;
   padding: 3em 2.8em;
-  width: 90vw;
-  max-width: 32em;
+  width: 100vw;
+  max-width: 42em;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -38,7 +38,7 @@ body {
 
 .search-container button {
   font-size: 1em;
-  background-color: #f4c531;
+  background-color: #76ABDF;
   border: none;
   font-weight: 600;
   border-radius: 0.3em;
@@ -51,7 +51,7 @@ img {
 }
 
 .details {
-  background-color: #f4c531;
+  background-color: #76ABDF;
   position: relative;
   text-align: center;
   margin: -1.9em 0 0 0;
@@ -69,12 +69,12 @@ img {
 }
 
 #show-recipe {
-  font-size: 1em;
-  background-color: #f4c531;
+  font-size: 0.8em;
+  background-color: #76ABDF;
   position: relative;
-  left: 74%;
-  height: 30px;
-  padding: 0.3rem 0.4em;
+  left: 83%;
+  height: 40px;
+  padding: 0.3rem 0.8em;
   border: none;
   top: 1.5em;
   border-radius: 0.3em;
